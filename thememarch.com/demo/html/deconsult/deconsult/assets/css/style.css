@@ -940,6 +940,34 @@ input[type=radio]:checked ~ label::before {
   background-image: url(../images/bg/bg-image-20.html);
 }
 
+.bg-image-21 {
+  background-image: url(../images/bg/bg-image-21.jpg);
+}
+
+.bg-image-22 {
+  background-image: url(../images/bg/bg-image-22.jpg);
+}
+
+.bg-image-23 {
+  background-image: url(../images/bg/bg-image-23.jpg);
+}
+
+.bg-image-24 {
+  background-image: url(../images/bg/bg-image-24.jpg);
+}
+
+.bg-image-25 {
+  background-image: url(../images/bg/bg-image-25.jpg);
+}
+
+.bg-image-26 {
+  background-image: url(../images/bg/bg-image-26.jpg);
+}
+
+.bg-image-27 {
+  background-image: url(../images/bg/bg-image-27.jpg);
+}
+
 /* Text specialized */
 .text-italic {
   font-style: italic;
